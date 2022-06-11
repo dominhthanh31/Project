@@ -53,53 +53,7 @@
     
 <main>
 
-    <h2 class="main__footer-title container">INSURANCE STORY</h2>
-    <div class="border__booter container"></div>
-
-    <section class="section main__footer container">
-        <div class="main__footer--img">
-            <a href="story01.php">
-                <img src="asstes/img/001.png" alt="" class="footer--main_img">
-                <p class="main__footer--title">Family Insurance - Parallel Protection</p>
-            </a>
-        </div>
-
-        <div class="main__footer--img">
-            <a href="">
-                <img src="asstes/img/002.jpg" alt="" class="footer--main_img">
-                <p class="main__footer--title">Family Insurance - Parallel Protection</p>
-            </a>
-        </div>
-
-        <div class="main__footer--img">
-            <a href="">
-                <img src="asstes/img/003.jpg" alt="" class="footer--main_img">
-                <p class="main__footer--title">Family Insurance - Parallel Protection</p>
-            </a>
-        </div>
-    </section>  
-    <section class="section main__footer container">
-        <div class="main__footer--img">
-            <a href="">
-                <img src="asstes/img/001.png" alt="" class="footer--main_img">
-                <p class="main__footer--title">Family Insurance - Parallel Protection</p>
-            </a>
-        </div>
-
-        <div class="main__footer--img">
-            <a href="">
-                <img src="asstes/img/002.jpg" alt="" class="footer--main_img">
-                <p class="main__footer--title">Family Insurance - Parallel Protection</p>
-            </a>
-        </div>
-
-        <div class="main__footer--img">
-            <a href="">
-                <img src="asstes/img/003.jpg" alt="" class="footer--main_img">
-                <p class="main__footer--title">Family Insurance - Parallel Protection</p>
-            </a>
-        </div>
-    </section>  
+     
 
 </main>
 

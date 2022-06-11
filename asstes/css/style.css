@@ -1106,3 +1106,20 @@ ul#main-menu{
     margin-top: 20px;
     margin-bottom: 10px;
 }
+
+/* ======================== STORY ====================*/
+.story__01{
+    text-align: center;
+    align-items: center;
+}
+
+.story--img{
+    max-width: 1024px;
+}
+
+/* .story_title{
+    margin-left: 20px;
+    margin-top: 10px;
+    text-align: center;
+} */
+

@@ -53,53 +53,33 @@
     
 <main>
 
-    <h2 class="main__footer-title container">INSURANCE STORY</h2>
-    <div class="border__booter container"></div>
+<div class="container">
 
-    <section class="section main__footer container">
-        <div class="main__footer--img">
-            <a href="story01.php">
-                <img src="asstes/img/001.png" alt="" class="footer--main_img">
-                <p class="main__footer--title">Family Insurance - Parallel Protection</p>
-            </a>
-        </div>
+    <div class="container story__01" id="banner">
+        <img src="asstes/img/001.png" alt="" class="story--img">
+    </div>
+    <div class="story_title">
+    <p>For families with limited financial resources, it is also a difficult choice to prioritize participating in insurance for any member. with the motto "customer first". Always put the interests of the customer first. With the permission of the Ministry of Finance, Dai-ichi Life Vietnam has just released a new product – An Tam Song Hanh. It promises to bring a perfect choice for all customers. Definitely the most interesting family insurance package right now.
+optimal choice for the whole family.</p>
+If all current insurance products only protect 1 main person on 1 contract, An Tam Song Hanh is the optimal choice to be protected together. Because the risk is unannounced and not excluded, everyone needs protection. In addition to enhancing protection for all family members with complementary products, Customers are completely assured when both pillars are protected at the same time.
+Protection up to 100 years old – for a lifetime, the whole family is safe because it is always protected. Feel free to enjoy the joys of life. Peace of mind makes future plans without worries.
+Increased protection for children
+with an attractive fee for a universal health care program. Moreover, the card is valid until the customer is 75 years old. High protection benefits of up to one billion dollars for a single disease or injury.Parents can rest assured that their children are always well protected. Children deserve the best medical care without parents having to worry about the cost.
+Moreover, life protection rights for children are also enhanced. Reaching the maximum protection value when the child turns 4 years old is also a new breakthrough. This is also the bright spot that makes An Tam Song Hanh a good family insurance package.
+Extend the age of participation to older people.
+According to statistics from Dai-ichi Life Vietnam, the number of customers over 60 years of age with the need to participate in insurance is quite large. Overcoming An Tam Hung Thinh Toan Toan's participation age limit of 60 years.An Tam Song Hanh extends the maximum age of participation to 65 years old. Older, health-conscious customers can get medical protection up to age 75. Accident protection also extends to 75 years of age.
+In addition to the protection value, customers can also increase their assets and create a legacy for their children and grandchildren.
+Increased protection for the elderly will also give each family greater peace of mind. Because the elderly always have to face higher risks, they need insurance as much as the breadwinners.
+Flexibility for the duration of your participation.
+Flexible adjustment of insurance amount changes Flexibility to change the insured person's side by side The outstanding advantage is that there is no fee increase, no health assessment.
+Flexibility to switch covered benefits with the addition or cancellation of additional products
+flexibility to pay premiums from the 5th year of the policy. Increase accrual with an additional premium at any time.
+Advance from the refund value or withdraw from the contract account value. Cancel the contract before the deadline: Customers are completely assured of being proactive in their family finances before all events.
+With all the new and improved points, Dai-ichi Life Vietnam hopes to bring a new experience to customers. With the most anticipated family insurance package
+    </div>
+    
+</div>
 
-        <div class="main__footer--img">
-            <a href="">
-                <img src="asstes/img/002.jpg" alt="" class="footer--main_img">
-                <p class="main__footer--title">Family Insurance - Parallel Protection</p>
-            </a>
-        </div>
-
-        <div class="main__footer--img">
-            <a href="">
-                <img src="asstes/img/003.jpg" alt="" class="footer--main_img">
-                <p class="main__footer--title">Family Insurance - Parallel Protection</p>
-            </a>
-        </div>
-    </section>  
-    <section class="section main__footer container">
-        <div class="main__footer--img">
-            <a href="">
-                <img src="asstes/img/001.png" alt="" class="footer--main_img">
-                <p class="main__footer--title">Family Insurance - Parallel Protection</p>
-            </a>
-        </div>
-
-        <div class="main__footer--img">
-            <a href="">
-                <img src="asstes/img/002.jpg" alt="" class="footer--main_img">
-                <p class="main__footer--title">Family Insurance - Parallel Protection</p>
-            </a>
-        </div>
-
-        <div class="main__footer--img">
-            <a href="">
-                <img src="asstes/img/003.jpg" alt="" class="footer--main_img">
-                <p class="main__footer--title">Family Insurance - Parallel Protection</p>
-            </a>
-        </div>
-    </section>  
 
 </main>
 
