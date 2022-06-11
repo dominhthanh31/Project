@@ -1,6 +1,17 @@
 <?php
+session_start();
+
+require_once('dbhelper.php');
+
+$sql = "select * from product where title ='Family insurance'";
+
+$data = executeResult($sql, true);
+$product_id = $data['id'];
+$sql = "select * from content_title where product_id = '$product_id'";
+$content_title = executeResult($sql);
 
 ?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -12,7 +23,7 @@
     <link rel="stylesheet" href="https://unicons.iconscout.com/release/v4.0.0/css/line.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
     <script src="https://code.jquery.com/jquery-2.2.4.js"></script>
-
+    <link rel="stylesheet" href=".asstes/css/container.css">
 </head>
 <body>
 <div class="wrapper">
@@ -56,7 +67,15 @@
 </div>
 
 <main>
-    
+    <div class="container">
+        <?=$data['title'];?>
+        <?php
+        foreach ($content_title as $index => $title) {
+            echo $title['content'];
+            echo '<br>';
+        }
+        ?>
+    </div>
     
 </main>
 
