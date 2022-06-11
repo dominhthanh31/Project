@@ -48,18 +48,6 @@
     --z-fixed: 100;
     --z-modal: 1000;
 }
-
-@media screen and (min-width:968px){
-    :root{
-        --big-font-size: 3rem;
-        --h1-font-size: 2.25rem;
-        --h2-font-size: 1.5rem;
-        --h3-font-size: 1.125rem;
-        --normal-font-size: 1rem;
-        --small-font-size: .875rem;
-        --smaller-font-size: .813rem;
-    }
-}
 */
 
 
@@ -79,7 +67,7 @@ a{
 }
 /*menu*/
 header{
-    /*border-bottom: 3px solid  #e6e6e6;*/
+  
     position: fixed;
     top: 0;
     left: 0;
@@ -105,7 +93,7 @@ header.sticky{
 }
 
 .header__img{
-    max-width: 1024px;
+     max-width: 1024px; 
     margin: 0 auto;
     align-items: center;
     justify-content: center;
@@ -356,10 +344,14 @@ ul#main-menu{
     width: 100%;
     display: flex;
     justify-content: space-between;
+    margin-left: -20px;
 }
 
 .insurance{
     margin-top: 20px;
+    flex-basis: 40%;
+    justify-content: space-around;
+    margin-left: 20px;
 }
 
 .insurance--logo{
@@ -367,16 +359,19 @@ ul#main-menu{
 }
 
 .img--main{
-    max-width: 17.5rem;
+    max-width: 20rem;
 }
 
 .border__insurance{
     border: 1px solid white;
     background-color: #fee7e8;
-    width: 87.5%;
-    height: 260px;
+    /* width: 28.3%; */
+    flex-basis: 20%;
+    justify-content: space-between;
+    height: 300px;
     border-top: 6px solid red;
     margin-top: -5px;
+    
 }
 
 .h3--title{
@@ -400,6 +395,7 @@ ul#main-menu{
 .title--insurance{
     font-size: 1.2rem;
     font-weight: 400;
+    padding: 5px;
 }
 
 .insurance__price{
@@ -991,14 +987,14 @@ ul#main-menu{
     color: #ff3333;
     font-size: 1.4rem;
     font-weight: 500;
-    margin-left: 250px;
+    margin-left: 150px;
 }
 
 .container__footer-child{
     display: flex;
-    width: 100%;
+    /* width: 100%; */
     margin-top: 20px;
-    margin-left: 240px;
+    margin-left: 140px;
     justify-content: space-between;
 }
 
@@ -1106,3 +1102,30 @@ ul#main-menu{
     margin-top: 20px;
     margin-bottom: 10px;
 }
+
+/*  PACKAGES */
+
+.packages{
+    width: 100%;
+    display: block;
+}
+
+.packages__header{
+    border-top: #d3caca 2px solid;
+    margin-top: 20px;
+}
+
+.packages__header h2{
+    color: #ff3333;
+    text-align: center;
+    font-weight: 600;
+    font-size: 1.8rem;
+    margin-top: 20px;
+}
+
+.packages__header p{
+    margin-top: 15px;
+    font-size: 1.2rem;
+    font-weight: 500;
+}
+
