@@ -26,13 +26,13 @@
                             <ul class="footer__menu">
 
                                 <li class="menu__child--item">
-                                    <a href="#" class="menu__link--child">Insurance For The Whole Family</a>
+                                    <a href="famyli.html" class="menu__link--child">Insurance For The Whole Family</a>
                                 </li>
                                 <li class="menu__child--item">
-                                    <a href="#" class="menu__link--child">Insurance For Mother And Baby</a>
+                                    <a href="mother&baby.html" class="menu__link--child">Insurance For Mother And Baby</a>
                                 </li>
                                 <li class="menu__child--item">
-                                    <a href="#" class="menu__link--child">Health Care Insurancey</a>
+                                    <a href="baby.html" class="menu__link--child">Health Care Insurancey</a>
                                 </li>
                                 
                             </ul>
