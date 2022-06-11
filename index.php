@@ -294,7 +294,7 @@
         </div>
     </section>
     <div class="main__see-more">
-        <a href="">
+        <a href="story.php">
            <div class="hover">
                 <h3 class="buttons__see-more">See More</h3>
                 <i class="uil uil-grip-horizontal-line button__icon-main"></i>
