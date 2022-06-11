@@ -19,28 +19,28 @@
             <div>
                 <ul id="main-menu">
                     <li class="menu__item"><a href="" class="menu__link">Home</a></li>
-                    <li class="menu__item"><a href="introduce.html" class="menu__link">Introduce</a></li>
+                    <li class="menu__item"><a href="introduce.php" class="menu__link">Introduce</a></li>
                     <li class="menu__item">
-                        <a href="packages.html" class="menu__link">Product Packages</a>
+                        <a href="packages.php" class="menu__link">Product Packages</a>
                         <div class="menu__child">
                             <ul class="footer__menu">
 
                                 <li class="menu__child--item">
-                                    <a href="famyli.html" class="menu__link--child">Insurance For The Whole Family</a>
+                                    <a href="famyli.php" class="menu__link--child">Insurance For The Whole Family</a>
                                 </li>
                                 <li class="menu__child--item">
-                                    <a href="mother&baby.html" class="menu__link--child">Insurance For Mother And Baby</a>
+                                    <a href="mother&baby.php" class="menu__link--child">Insurance For Mother And Baby</a>
                                 </li>
                                 <li class="menu__child--item">
-                                    <a href="baby.html" class="menu__link--child">Health Care Insurancey</a>
+                                    <a href="baby.php" class="menu__link--child">Health Care Insurancey</a>
                                 </li>
                                 
                             </ul>
                         </div>
                     </li>
-                    <li class="menu__item"><a href="customer.html" class="menu__link">Customer service</a></li>
-                    <li class="menu__item"><a href="story.html" class="menu__link">Insurance Story</a></li>
-                    <li class="menu__item"><a href="contact.html" class="menu__link">Contact</a></li>
+                    <li class="menu__item"><a href="customer.php" class="menu__link">Customer service</a></li>
+                    <li class="menu__item"><a href="story.php" class="menu__link">Insurance Story</a></li>
+                    <li class="menu__item"><a href="contact.php" class="menu__link">Contact</a></li>
                 </ul> 
             </div>
        </div>
@@ -294,7 +294,7 @@
         </div>
     </section>
     <div class="main__see-more">
-        <a href="">
+        <a href="story.php">
            <div class="hover">
                 <h3 class="buttons__see-more">See More</h3>
                 <i class="uil uil-grip-horizontal-line button__icon-main"></i>
@@ -328,12 +328,12 @@
 
                 <div class="footer__support">
                     <i class="uil uil-hipchat contact__icon"></i>
-                    <a href="index.html">Free Consultation 24/7</a>
+                    <a href="index.php">Free Consultation 24/7</a>
                 </div>
                 
                 <div class="footer__responsibility">
                     <i class="uil uil-hipchat contact__icon"></i>
-                    <a href="index.html">Responsibility - Dedication - Professionalism</a>
+                    <a href="index.php">Responsibility - Dedication - Professionalism</a>
                 </div>
            </div>
         </div>
@@ -364,22 +364,22 @@
             <h1>CATEGORIES</h1>
             <ul class="footer__categories--menu">
                 <li class="footer__categories--item">
-                    <a href="index.html" class="footer__categories--link">Home</a>
+                    <a href="index.php" class="footer__categories--link">Home</a>
                 </li>
                 <li class="footer__categories--item">
-                    <a href="index.html" class="footer__categories--link">Introduce</a>
+                    <a href="index.php" class="footer__categories--link">Introduce</a>
                 </li>
                 <li class="footer__categories--item">
-                    <a href="index.html" class="footer__categories--link">Product Packages</a>
+                    <a href="index.php" class="footer__categories--link">Product Packages</a>
                 </li>
                 <li class="footer__categories--item">
-                    <a href="index.html" class="footer__categories--link">Customer service</a>
+                    <a href="index.php" class="footer__categories--link">Customer service</a>
                 </li>
                 <li class="footer__categories--item">
-                    <a href="index.html" class="footer__categories--link">Insurance Story</a>
+                    <a href="index.php" class="footer__categories--link">Insurance Story</a>
                 </li>
                 <li class="footer__categories--item">
-                    <a href="index.html" class="footer__categories--link">Conact</a>
+                    <a href="index.php" class="footer__categories--link">Conact</a>
                 </li>
             </ul>
         </div>
