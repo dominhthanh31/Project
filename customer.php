@@ -18,10 +18,10 @@
             <img src="asstes/img/dai-ichi-life-logo.png" alt="" class="header__img">
             <div>
                 <ul id="main-menu">
-                    <li class="menu__item"><a href="index.html" class="menu__link">Home</a></li>
-                    <li class="menu__item"><a href="introduce.html" class="menu__link">Introduce</a></li>
+                    <li class="menu__item"><a href="index.php" class="menu__link">Home</a></li>
+                    <li class="menu__item"><a href="introduce.php" class="menu__link">Introduce</a></li>
                     <li class="menu__item">
-                        <a href="packages.html" class="menu__link">Product Packages</a>
+                        <a href="packages.php" class="menu__link">Product Packages</a>
                         <div class="menu__child">
                             <ul class="footer__menu">
 
@@ -38,9 +38,9 @@
                             </ul>
                         </div>
                     </li>
-                    <li class="menu__item"><a href="customer.html" class="menu__link">Customer service</a></li>
-                    <li class="menu__item"><a href="story.html" class="menu__link">Insurance Story</a></li>
-                    <li class="menu__item"><a href="contact.html" class="menu__link">Contact</a></li>
+                    <li class="menu__item"><a href="customer.php" class="menu__link">Customer service</a></li>
+                    <li class="menu__item"><a href="story.php" class="menu__link">Insurance Story</a></li>
+                    <li class="menu__item"><a href="contact.php" class="menu__link">Contact</a></li>
                 </ul> 
             </div>
        </div>
@@ -60,7 +60,7 @@
            <div class="colum__3">
                <div class="colum__01 title__colum--border">
                    <div class="colum__img">
-                       <a href="customer01.html" class="colum__imgs">
+                       <a href="customer01.php" class="colum__imgs">
                            <img src="asstes/img/a1.png" alt="">
                        </a>
                    </div>
@@ -72,7 +72,7 @@
 
                 <div class="colum__01 title__colum--border">
                     <div class="colum__img">
-                        <a href="customer02.html" class="colum__imgs">
+                        <a href="customer02.php" class="colum__imgs">
                             <img src="asstes/img/a2.png" alt="">
                         </a>
                     </div>
@@ -82,7 +82,7 @@
 
                 <div class="colum__01 title__colum--border">
                     <div class="colum__img">
-                        <a href="customer03.html" class="colum__imgs">
+                        <a href="customer03.php" class="colum__imgs">
                             <img src="asstes/img/a3.png " alt="" style="height: -200px;">
                         </a>
                     </div>
@@ -94,7 +94,7 @@
    </div> 
 
    <div class="fotter__img--paradox">
-       <a href="customer.html" class="fotter__img--link">
+       <a href="customer.php" class="fotter__img--link">
            <img src="asstes/img/a4.jpg" alt="" style="width: 1510px;">
        </a>
    </div>
@@ -124,12 +124,12 @@
 
                 <div class="footer__support">
                     <i class="uil uil-hipchat contact__icon"></i>
-                    <a href="index.html">Free Consultation 24/7</a>
+                    <a href="index.php">Free Consultation 24/7</a>
                 </div>
                 
                 <div class="footer__responsibility">
                     <i class="uil uil-hipchat contact__icon"></i>
-                    <a href="index.html">Responsibility - Dedication - Professionalism</a>
+                    <a href="index.php">Responsibility - Dedication - Professionalism</a>
                 </div>
            </div>
         </div>
@@ -160,22 +160,22 @@
             <h1>CATEGORIES</h1>
             <ul class="footer__categories--menu">
                 <li class="footer__categories--item">
-                    <a href="index.html" class="footer__categories--link">Home</a>
+                    <a href="index.php" class="footer__categories--link">Home</a>
                 </li>
                 <li class="footer__categories--item">
-                    <a href="index.html" class="footer__categories--link">Introduce</a>
+                    <a href="index.php" class="footer__categories--link">Introduce</a>
                 </li>
                 <li class="footer__categories--item">
-                    <a href="index.html" class="footer__categories--link">Product Packages</a>
+                    <a href="index.php" class="footer__categories--link">Product Packages</a>
                 </li>
                 <li class="footer__categories--item">
-                    <a href="index.html" class="footer__categories--link">Customer service</a>
+                    <a href="index.php" class="footer__categories--link">Customer service</a>
                 </li>
                 <li class="footer__categories--item">
-                    <a href="index.html" class="footer__categories--link">Insurance Story</a>
+                    <a href="index.php" class="footer__categories--link">Insurance Story</a>
                 </li>
                 <li class="footer__categories--item">
-                    <a href="index.html" class="footer__categories--link">Conact</a>
+                    <a href="index.php" class="footer__categories--link">Conact</a>
                 </li>
             </ul>
         </div>

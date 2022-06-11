@@ -19,9 +19,9 @@
             <div>
                 <ul id="main-menu">
                     <li class="menu__item"><a href="" class="menu__link">Home</a></li>
-                    <li class="menu__item"><a href="introduce.html" class="menu__link">Introduce</a></li>
+                    <li class="menu__item"><a href="introduce.php" class="menu__link">Introduce</a></li>
                     <li class="menu__item">
-                        <a href="packages.html" class="menu__link">Product Packages</a>
+                        <a href="packages.php" class="menu__link">Product Packages</a>
                         <div class="menu__child">
                             <ul class="footer__menu">
 
@@ -38,9 +38,9 @@
                             </ul>
                         </div>
                     </li>
-                    <li class="menu__item"><a href="customer.html" class="menu__link">Customer service</a></li>
-                    <li class="menu__item"><a href="story.html" class="menu__link">Insurance Story</a></li>
-                    <li class="menu__item"><a href="contact.html" class="menu__link">Contact</a></li>
+                    <li class="menu__item"><a href="customer.php" class="menu__link">Customer service</a></li>
+                    <li class="menu__item"><a href="story.php" class="menu__link">Insurance Story</a></li>
+                    <li class="menu__item"><a href="contact.php" class="menu__link">Contact</a></li>
                 </ul> 
             </div>
        </div>
@@ -62,7 +62,7 @@
                 <h2 class="contact__contact--title ">CONTACT</h2>
                 <div class="border__contact--bottom"></div>
                 <h3 class="contact__insurance--title">Insurance consulting call center</h3>
-                <p class="contact__title--full">Consultants: <a href="contact.html" class="link link__phone">0339202500</a></p>
+                <p class="contact__title--full">Consultants: <a href="contact.php" class="link link__phone">0339202500</a></p>
                 <div class="border__contact--bottom2"></div>
                 <p class="contact__title--full">Email: <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" class="link link__email">viet04092002@gmail.com</a></p>
                 <div class="border__contact--bottom2"></div>
@@ -111,12 +111,12 @@
 
                 <div class="footer__support">
                     <i class="uil uil-hipchat contact__icon"></i>
-                    <a href="index.html">Free Consultation 24/7</a>
+                    <a href="index.php">Free Consultation 24/7</a>
                 </div>
                 
                 <div class="footer__responsibility">
                     <i class="uil uil-hipchat contact__icon"></i>
-                    <a href="index.html">Responsibility - Dedication - Professionalism</a>
+                    <a href="index.php">Responsibility - Dedication - Professionalism</a>
                 </div>
            </div>
         </div>
@@ -147,22 +147,22 @@
             <h1>CATEGORIES</h1>
             <ul class="footer__categories--menu">
                 <li class="footer__categories--item">
-                    <a href="index.html" class="footer__categories--link">Home</a>
+                    <a href="index.php" class="footer__categories--link">Home</a>
                 </li>
                 <li class="footer__categories--item">
-                    <a href="index.html" class="footer__categories--link">Introduce</a>
+                    <a href="index.php" class="footer__categories--link">Introduce</a>
                 </li>
                 <li class="footer__categories--item">
-                    <a href="index.html" class="footer__categories--link">Product Packages</a>
+                    <a href="index.php" class="footer__categories--link">Product Packages</a>
                 </li>
                 <li class="footer__categories--item">
-                    <a href="index.html" class="footer__categories--link">Customer service</a>
+                    <a href="index.php" class="footer__categories--link">Customer service</a>
                 </li>
                 <li class="footer__categories--item">
-                    <a href="index.html" class="footer__categories--link">Insurance Story</a>
+                    <a href="index.php" class="footer__categories--link">Insurance Story</a>
                 </li>
                 <li class="footer__categories--item">
-                    <a href="index.html" class="footer__categories--link">Conact</a>
+                    <a href="index.php" class="footer__categories--link">Conact</a>
                 </li>
             </ul>
         </div>
